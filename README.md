@@ -1,4 +1,4 @@
-# OC_Projet2: Analyser des données de systèmes éducatifs
+# Analyser des données de systèmes éducatifs
 Projet 2 de la formation de Data Scientist d'Openclassroom (décembre 2021)
 
 ## Mission
